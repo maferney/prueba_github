@@ -1,0 +1,12 @@
+body {
+    background-color: lightgrey
+}
+
+.contacto {
+    background-color: whitesmoke;
+}
+
+.mb-3, button {
+    margin: 50px;
+}
+
